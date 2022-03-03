@@ -16,7 +16,6 @@
             $rs = mysqli_query($con, $update);
             $data = mysqli_fetch_assoc($rs);
             //print_r($data);
-            
         ?>
     <form action="alterar.php" method="post">
         <input type="hidden" name="id" value="<?=$data['id_funcionario'] ?>">

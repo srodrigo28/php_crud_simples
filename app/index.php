@@ -28,11 +28,14 @@
                 $sexo = $data['sexo'];
                 $senha = $data['senha'];
 
-                echo "<br><br>Código " . $id_funcionario . "<br>" .
-                "Nome: " . $nome . "<br>" .
-                "Login: " . $login . "<br>" .
-                "Sexo " . $sexo . "<br>" .
-                "Código" . $senha . "<br>"; ?>
+                echo "
+                    <hr />
+                         ID: " . $id_funcionario . "<br>" .
+                        "Nome: " . $nome . "<br>" .
+                        "Login: " . $login . "<br>" .
+                        "Sexo " . $sexo . "<br>" .
+                    "<hr />";
+        ?>
                 <a href="excluir.php?id=<?=$id_funcionario?>">Excluir</a> |
                 <a href="atualizar.php?id=<?=$id_funcionario?>">Atualizar</a>
                 <?php
