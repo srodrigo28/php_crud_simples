@@ -1,8 +1,0 @@
-# link: https://www.youtube.com/watch?v=c9bOIypUglI&list=PLA177te8KCzdySyRwEsA5NLzhWo8JC6A5
-# https://www.youtube.com/watch?v=79UWp_n3abQ
-banco: MYSQL
-banco: postgres
-url: localhost
-usr: root
-key: ''
-por: 3306
