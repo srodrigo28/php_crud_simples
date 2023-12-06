@@ -15,7 +15,7 @@ if(empty($_SESSION)){
 </head>
 <body>
     <div class="container">
-        <?php include "./turma.php" ?>
+        <?php include "./turma/index.php" ?>
     </div>
 </body>
 </html>
