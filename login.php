@@ -17,6 +17,7 @@
             align-items: center;
         }
     </style>
+    
     <div class="container">
         <div class="row">
             <div class="col-lg-4 offset-lg-4">
