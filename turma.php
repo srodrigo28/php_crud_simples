@@ -1,5 +1,6 @@
 
 <div class="jumbotron text-center">
+        <h3 class="text-end"><?php print "Olá, " . $_SESSION["usuario"]; ?></h3>
         <h1>Cadastro de Alunos</h1>
     </div>
     <form>
@@ -17,7 +18,10 @@
                 <input type="text" class="form-control">
             </div>
         </div>
-        <button onclick="Inserir()" class="btn btn-primary mt-3">Cadastrar</button>
+        <button onclick="Inserir()" class="btn btn-outline-primary mt-3">Cadastrar</button>
+        <?php
+            print "<a href='logout.php' class='btn btn-outline-danger mt-3'>Sair</a>"
+        ?>
     </form>
     <table class="table striped mt-5">
         <thead>

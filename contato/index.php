@@ -1,2 +1,2 @@
 <?php
-require = "./../inicio.php"
+require "./../inicio.php";
