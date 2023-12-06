@@ -39,4 +39,7 @@ https://www.youtube.com/watch?v=2aKRJVyS2sg&list=PLmY5AEiqDWwD7v5aIsU55gPBeusnaw
 https://www.youtube.com/watch?v=YK4gSpAZU_o&list=PLmY5AEiqDWwCYMSZd00-B_RdRneU9_eun&index=7
 
 ## Como listar registros de duas tabelas com PHP e JavaScript
+* Ùltimo visto
+```
 https://www.youtube.com/watch?v=3wZIAyRmXV4&list=PLmY5AEiqDWwCYMSZd00-B_RdRneU9_eun
+```
